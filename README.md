@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XeyyamSherif
 - 👀 I’m interested in Web development, Data science
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker,Rest framework, React
 - 📫 How to reach me ...
 
 <!---
