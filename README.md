@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XeyyamSherif
-- 👀 I’m interested in Web development, Data science
+- 👀 I’m interested in Api development, Data science
 - 🌱 I’m currently learning Docker,Rest framework with Fastapi
 - 📫 How to reach me ... 
 - My mail :
