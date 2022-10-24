@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XeyyamSherif
 - 👀 I’m interested in web, api development, data science
-- 🌱 I’m currently learning Docker,Rest framework with Fastapi
+- 🌱 I’m currently learning Data Science, Machine learning
 - 📫 How to reach me ... 
 - My mail :
  barcaaltx@gmail.com
