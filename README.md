@@ -2,7 +2,7 @@
 - 👀 I’m interested in web, api development, data science
 - 🌱 I’m currently learning Data Science, Machine learning
 - 📫 How to reach me ... 
-- My mail :
+- my mail :
  barcaaltx@gmail.com
 - my telegram username :
  @xym_shrf
