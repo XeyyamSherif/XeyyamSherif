@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XeyyamSherif
-- 👀 I’m developing  web, api development, data pipelines
+- 👀 I’m developing  web Restful API's and data pipelines
 - 🌱 I’m currently learning Data Science, Machine learning
 - 📫 How to reach me ... 
 - my mail :
